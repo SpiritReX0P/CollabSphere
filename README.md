@@ -1,5 +1,4 @@
 # CollabSphere
-# CollabSphere
 
 A full-stack collaborative project management platform for teams to manage workspaces, projects, tasks, communication, and notifications in real time.
 
