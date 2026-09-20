@@ -1,0 +1,25 @@
+express
+socket.io
+dotenv
+cookie-parser
+cookie
+cors
+mongoose
+mongoose-paginate-v2
+mongoose-aggregate-paginate-v2
+bcrypt
+jsonwebtoken
+bullmq
+kafkajs
+
+
+
+
+tailwindcss @tailwindcss/vite
+framer-motion
+react-responsive
+react-router-dom
+axios
+react-icons
+socket.io-client
+@google/generative-ai
